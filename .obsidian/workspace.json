@@ -21,8 +21,23 @@
               "icon": "lucide-file",
               "title": "GIT"
             }
+          },
+          {
+            "id": "466a37805a36b603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Netwoks/SSH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSH"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "917c712020c0a4df",
@@ -77,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,13 +113,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "1ce950cc118cd596",
@@ -194,16 +207,19 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2afb4c3f7991a172",
+  "active": "94afbbe9aab4cea5",
   "lastOpenFiles": [
+    "study plan.md",
+    "Netwoks/SSH.md",
+    "rsa.pub",
+    "rsa",
+    "programacion/GIT.md",
     "Netwoks/Basics of networking.md",
     "programacion/python scripting.md",
-    "programacion/GIT.md",
     "AySO/Ayso UTN.md",
     "programacion/Programacion UTN.md",
     "Home.md",
     "guitarra/amplificador.md",
-    "study plan.md",
     "guitarra",
     "AySO/bash script.md",
     "homelab/pfsense router.md",
@@ -227,7 +243,6 @@
     "containers.md",
     "docker.md",
     "programacion/archivos.md",
-    "programacion/matrices.md",
     "Untitled/Pasted image 20250602195916.png",
     "ss/Pasted image 20250602195509.png",
     "ss/Pasted image 20250602195457.png",
@@ -239,8 +254,6 @@
     "ss/Pasted image 20250530202039.png",
     "ss/Pasted image 20250530202014.png",
     "ss/Pasted image 20250530201358.png",
-    "math/ss",
-    "math",
-    "AySO/ss"
+    "math/ss"
   ]
 }

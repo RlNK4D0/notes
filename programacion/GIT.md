@@ -26,8 +26,15 @@ git commit -m "mensaje"
 ```
 
 version 2 no tiene guardada una copia de version 1, solo tiene almacenados los cambios que se hicieron
+## Commit Message Best Practices:
 
-*los mensajes deben ser  precisos y descriptivos * [[tipos de datos]] -> string
+- Keep the first line short (50 characters or less).
+- Use the imperative mood (e.g., "Add feature" not "Added feature").
+- Leave a blank line after the summary, then add more details if needed.
+- Describe _why_ the change was made, not just what changed.
+
+---
+
 
 al hacer un commit se limpian los cambios y se guardan en el commit
 se genera un *head* , que seria el commit mas reciente
@@ -35,6 +42,18 @@ se genera un *head* , que seria el commit mas reciente
 ##### good commit practices
 - many small commits
 	- se evitan perdidas grandes de codigo 
+
+##### some useful options
+```
+#Create an empty commit
+git commit --allow-empty -m "Start project"
+
+#Use previous commit message (no editor)
+git commit --no-edit
+
+#Quickly add staged changes to last commit, keep message
+git commit --amend --no-edit
+```
 
 
 ### Branch (es)

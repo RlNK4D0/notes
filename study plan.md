@@ -1,5 +1,6 @@
 ### Automation
 - [x] git
+- [ ] [[SSH]]
 - [ ] [[python scripting]]
 - [ ] bash
 - [ ] n8n (interested!!!!!!!!!!)
