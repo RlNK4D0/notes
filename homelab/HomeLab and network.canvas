@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"01d04f9eb9d44423","x":-175,"y":-145,"width":250,"height":60,"type":"text","text":"[[pfsense router]]"},
+		{"id":"6f7500f81c1ea863","x":-175,"y":-20,"width":250,"height":60,"type":"text","text":"switch"},
+		{"id":"bb24cb8db8af5a56","x":-175,"y":-260,"width":250,"height":60,"type":"text","text":"Modem"},
+		{"id":"6bd19fc6d9b2bd23","x":-175,"y":-420,"width":250,"height":60,"type":"text","text":"ISP - INTERNET"},
+		{"id":"2ee99e4dac06055b","x":179,"y":162,"width":250,"height":60,"type":"text","text":"WAPs"},
+		{"id":"9789f827789fa85c","x":-71,"y":162,"width":250,"height":60,"type":"text","text":"[[NAS - Network Attached Storage]]"},
+		{"id":"78d4b996a2e113c7","x":-321,"y":164,"width":250,"height":60,"type":"text","text":"PC 2"},
+		{"id":"189e1990071c8388","x":-571,"y":164,"width":250,"height":60,"type":"text","text":"PC 1"},
+		{"id":"fe5611789d741ca0","x":179,"y":340,"width":250,"height":60,"type":"text","text":"phones"},
+		{"id":"6b564a9f05abb19a","x":429,"y":340,"width":250,"height":60,"type":"text","text":"TV"},
+		{"id":"901675ff08130de0","x":679,"y":340,"width":250,"height":60,"type":"text","text":"notebooks"}
+	],
+	"edges":[
+		{"id":"5912127043917d07","fromNode":"bb24cb8db8af5a56","fromSide":"bottom","toNode":"01d04f9eb9d44423","toSide":"top"},
+		{"id":"d5e7763b4566e925","fromNode":"01d04f9eb9d44423","fromSide":"bottom","toNode":"6f7500f81c1ea863","toSide":"top"},
+		{"id":"e1638dff0266ccd0","fromNode":"01d04f9eb9d44423","fromSide":"top","toNode":"bb24cb8db8af5a56","toSide":"bottom"},
+		{"id":"f69014f1b2cdb0bd","fromNode":"bb24cb8db8af5a56","fromSide":"top","toNode":"6bd19fc6d9b2bd23","toSide":"bottom"},
+		{"id":"932ed41a8f8be44d","fromNode":"6bd19fc6d9b2bd23","fromSide":"bottom","toNode":"bb24cb8db8af5a56","toSide":"top"},
+		{"id":"bfcb2d5f1861589d","fromNode":"189e1990071c8388","fromSide":"top","toNode":"6f7500f81c1ea863","toSide":"bottom"},
+		{"id":"43ae37ad2ef28eb0","fromNode":"78d4b996a2e113c7","fromSide":"top","toNode":"6f7500f81c1ea863","toSide":"bottom"},
+		{"id":"c2f9e706c81a6ea1","fromNode":"9789f827789fa85c","fromSide":"top","toNode":"6f7500f81c1ea863","toSide":"bottom"},
+		{"id":"1adc8957bee6fcde","fromNode":"2ee99e4dac06055b","fromSide":"top","toNode":"6f7500f81c1ea863","toSide":"bottom"},
+		{"id":"dc4191df3fcf14ef","fromNode":"6f7500f81c1ea863","fromSide":"bottom","toNode":"9789f827789fa85c","toSide":"top"},
+		{"id":"e573f1e173afba0e","fromNode":"fe5611789d741ca0","fromSide":"top","toNode":"2ee99e4dac06055b","toSide":"bottom"},
+		{"id":"d6c51852df24d38b","fromNode":"6b564a9f05abb19a","fromSide":"top","toNode":"2ee99e4dac06055b","toSide":"bottom"},
+		{"id":"9f4f40715ffc2fa8","fromNode":"901675ff08130de0","fromSide":"top","toNode":"2ee99e4dac06055b","toSide":"bottom"}
+	]
+}

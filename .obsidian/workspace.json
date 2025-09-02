@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "46400362934215ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "80910e7609c5d79d",
+        "type": "tabs",
+        "dimension": 75.8125,
+        "children": [
+          {
+            "id": "2afb4c3f7991a172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programacion/GIT.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT"
+            }
+          }
+        ]
+      },
+      {
+        "id": "917c712020c0a4df",
+        "type": "tabs",
+        "dimension": 24.1875,
+        "children": [
+          {
+            "id": "6a70e29c8cb06beb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study plan.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "study plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4733acf274eeeadf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f9a896ad69ae744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94afbbe9aab4cea5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a80f246b02d8d013",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "git",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7ad847e721dc49fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1ce950cc118cd596",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8e79dc0e16b360b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc5caba6e2a18310",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c35adf3759be1b30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c556a40b31d6674c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1ae358c41fabea74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "2afb4c3f7991a172",
+  "lastOpenFiles": [
+    "Netwoks/Basics of networking.md",
+    "programacion/python scripting.md",
+    "programacion/GIT.md",
+    "AySO/Ayso UTN.md",
+    "programacion/Programacion UTN.md",
+    "Home.md",
+    "guitarra/amplificador.md",
+    "study plan.md",
+    "guitarra",
+    "AySO/bash script.md",
+    "homelab/pfsense router.md",
+    "homelab/HomeLab and network.canvas",
+    "Netwoks/Ethernet.md",
+    "Netwoks/VoIP - voice over IP.md",
+    "Netwoks",
+    "delirios misticos de ayso.md",
+    "Sin título.md",
+    "AySO/GRUB.md",
+    "programacion/tipos de datos.md",
+    "automation/python automation.md",
+    "homelab",
+    "cloud",
+    "automation",
+    "automation",
+    "programacion/funciones.md",
+    "programacion/Try-Except-Finally.md",
+    "programacion/swap.md",
+    "programacion/listas.md",
+    "containers.md",
+    "docker.md",
+    "programacion/archivos.md",
+    "programacion/matrices.md",
+    "Untitled/Pasted image 20250602195916.png",
+    "ss/Pasted image 20250602195509.png",
+    "ss/Pasted image 20250602195457.png",
+    "ss",
+    "ss/Pasted image 20250530210208.png",
+    "ss/Pasted image 20250530204848.png",
+    "ss/Pasted image 20250530202510.png",
+    "ss/Pasted image 20250530202359.png",
+    "ss/Pasted image 20250530202039.png",
+    "ss/Pasted image 20250530202014.png",
+    "ss/Pasted image 20250530201358.png",
+    "math/ss",
+    "math",
+    "AySO/ss"
+  ]
+}
