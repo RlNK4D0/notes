@@ -207,8 +207,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "94afbbe9aab4cea5",
+  "active": "466a37805a36b603",
   "lastOpenFiles": [
+    "clone-master.sh~",
+    "clone-master.sh",
     "study plan.md",
     "Netwoks/SSH.md",
     "rsa.pub",
@@ -253,7 +255,6 @@
     "ss/Pasted image 20250530202359.png",
     "ss/Pasted image 20250530202039.png",
     "ss/Pasted image 20250530202014.png",
-    "ss/Pasted image 20250530201358.png",
-    "math/ss"
+    "ss/Pasted image 20250530201358.png"
   ]
 }
