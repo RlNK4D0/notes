@@ -29,15 +29,25 @@
               "type": "markdown",
               "state": {
                 "file": "Netwoks/SSH.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "SSH"
             }
+          },
+          {
+            "id": "25a14d92807ed99c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "917c712020c0a4df",
@@ -207,12 +217,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "466a37805a36b603",
+  "active": "25a14d92807ed99c",
   "lastOpenFiles": [
-    "clone-master.sh~",
-    "clone-master.sh",
+    "programacion/pygame.md",
+    "programacion/parcial programacion.md",
     "study plan.md",
     "Netwoks/SSH.md",
+    "clone-master.sh~",
+    "clone-master.sh",
     "rsa.pub",
     "rsa",
     "programacion/GIT.md",
@@ -244,11 +256,9 @@
     "programacion/listas.md",
     "containers.md",
     "docker.md",
-    "programacion/archivos.md",
     "Untitled/Pasted image 20250602195916.png",
     "ss/Pasted image 20250602195509.png",
     "ss/Pasted image 20250602195457.png",
-    "ss",
     "ss/Pasted image 20250530210208.png",
     "ss/Pasted image 20250530204848.png",
     "ss/Pasted image 20250530202510.png",
