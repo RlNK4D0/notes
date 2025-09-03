@@ -87,3 +87,26 @@ ignore se utiliza para que git no registre un archivo
 ```
 git ignore archivo.txt
 ```
+
+
+---
+
+# BASIC REPO CONFIG
+
+```
+echo "# notes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin ssh@link
+git push -u origin main
+```
+
+# push existing repo to remote 
+
+```
+git remote add origin ssh@link
+git branch -M main
+git push -u origin main
+```

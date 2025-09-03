@@ -40,10 +40,14 @@
             "id": "25a14d92807ed99c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "programacion/GIT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT"
             }
           }
         ],
@@ -219,9 +223,9 @@
   },
   "active": "25a14d92807ed99c",
   "lastOpenFiles": [
+    "study plan.md",
     "programacion/pygame.md",
     "programacion/parcial programacion.md",
-    "study plan.md",
     "Netwoks/SSH.md",
     "clone-master.sh~",
     "clone-master.sh",
