@@ -54,3 +54,8 @@ proveen accceso a la red a traves de WI-FI, inalambricamente, mayormente utiliza
 
 los WAPs se pueden posicionar en distintas zonas de la casa para asegurar tener una buena señal conectandose con un cable [[Ethernet]] al router o switch
 los WAPs generalmente funcionan de forma que reconectan tu dispositivo al WAP con mejor señal, es un proceso muy rapido y eficiente que no se nota que estas siendo reconectado
+
+
+# the OSI model
+
+The [[OSI-model]] is a set of rules that explain how networks work, very important concept

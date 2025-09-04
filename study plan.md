@@ -1,7 +1,7 @@
 ### Automation
 - [x] [[GIT]]
 - [x] [[SSH]]
-- [ ] [[python scripting]]
+- [x] [[python scripting]]
 - [ ] bash
 - [ ] n8n (interested!!!!!!!!!!)
 - [ ] powershell (maybe)
@@ -10,8 +10,9 @@
 ### Networking ( active now )
 ###### [[Basics of networking]]
 
+- [ ] [[OSI-model]]
 - [x] [[Ethernet]]
-- [ ] mac adresses
+- [x] [[MAC-addresses]]
 - [x] switch / hub
 - [x] routers 
 - [x] Modems
