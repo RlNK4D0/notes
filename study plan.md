@@ -1,8 +1,8 @@
 ### Automation
 - [x] [[GIT]]
-- [x] [[SSH]]
-- [x] [[python scripting]]
-- [ ] bash
+- [x] [[SSH]] ^9v4i
+- [x] [[python scripting]] ^b55k
+- [ ] bash ^edlh
 - [ ] n8n (interested!!!!!!!!!!)
 - [ ] powershell (maybe)
 - [ ] ansible (maybe)
@@ -10,15 +10,16 @@
 ### Networking ( active now )
 ###### [[Basics of networking]]
 
-- [ ] [[OSI-model]]
+- [x] [[OSI-model]]
 - [x] [[Ethernet]]
 - [x] [[MAC-addresses]]
 - [x] switch / hub
 - [x] routers 
 - [x] Modems
-- [ ] IPv4
-- [ ] DHCP
-- [ ] DNS
+- [ ] [[IPv4]]
+- [ ] [[IPv6]]
+- [ ] [[DHCP]]
+- [ ] [[DNS]]
 - [ ] ping
 - [ ] traceroute
 - [ ] [[radio communications]]

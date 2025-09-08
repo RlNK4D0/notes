@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Netwoks/OSI-model.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -216,12 +216,16 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "94afbbe9aab4cea5",
+  "active": "6a70e29c8cb06beb",
   "lastOpenFiles": [
     "Netwoks/OSI-model.md",
-    "test note.md",
-    "automation/python scripting.md",
+    "IPv6.md",
     "study plan.md",
+    "Netwoks/ss/Pasted image 20250908165453.png",
+    "Netwoks/ss/Pasted image 20250908165405.png",
+    "automation/python scripting.md",
+    "Untitled.md",
+    "test note.md",
     "Netwoks/ss",
     "Netwoks/ss/Pasted image 20250904000458.png",
     "Netwoks/Basics of networking.md",
@@ -254,16 +258,12 @@
     "automation/python automation.md",
     "homelab",
     "cloud",
-    "programacion/funciones.md",
-    "programacion/Try-Except-Finally.md",
     "Untitled/Pasted image 20250602195916.png",
     "ss/Pasted image 20250602195509.png",
     "ss/Pasted image 20250602195457.png",
     "ss/Pasted image 20250530210208.png",
     "ss/Pasted image 20250530204848.png",
     "ss/Pasted image 20250530202510.png",
-    "ss/Pasted image 20250530202359.png",
-    "ss/Pasted image 20250530202039.png",
-    "ss/Pasted image 20250530202014.png"
+    "ss/Pasted image 20250530202359.png"
   ]
 }
