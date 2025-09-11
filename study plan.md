@@ -16,10 +16,10 @@
 - [x] switch / hub
 - [x] routers 
 - [x] Modems
-- [ ] [[IPv4]]
+- [x] [[IPv4]]
 - [ ] [[IPv6]]
 - [ ] [[DHCP]]
-- [ ] [[DNS]]
+- [ ] [[DNS - Domain Name System]]
 - [ ] ping
 - [ ] traceroute
 - [ ] [[radio communications]]

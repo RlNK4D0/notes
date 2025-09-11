@@ -110,7 +110,7 @@ This **Applications** produce the data that will be transferred to the *lower la
 #### Protocols:
 - [[SMTP]]
 - [[FTP]]
-- [[DNS]]
+- [[DNS - Domain Name System]]
 - [[DHCP]]
 
 ### Data Flow in the OSI model

@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Netwoks/IPv4.md",
+                "file": "Netwoks/DNS - Domain Name System.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPv4"
+              "title": "DNS - Domain Name System"
             }
           }
         ],
@@ -216,13 +216,15 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "94afbbe9aab4cea5",
+  "active": "327e545146f1038e",
   "lastOpenFiles": [
+    "Netwoks/DNS - Domain Name System.md",
+    "Netwoks/IPv6.md",
     "study plan.md",
     "Netwoks/IPv4.md",
+    "Netwoks/ss/Pasted image 20250910223743.png",
     "Untitled.md",
     "Netwoks/OSI-model.md",
-    "Netwoks/IPv6.md",
     "Netwoks/ss/Pasted image 20250908165453.png",
     "Netwoks/ss/Pasted image 20250908165405.png",
     "automation/python scripting.md",
@@ -255,7 +257,6 @@
     "delirios misticos de ayso.md",
     "Sin título.md",
     "AySO/GRUB.md",
-    "programacion/tipos de datos.md",
     "homelab",
     "cloud",
     "Untitled/Pasted image 20250602195916.png",
@@ -263,7 +264,6 @@
     "ss/Pasted image 20250602195457.png",
     "ss/Pasted image 20250530210208.png",
     "ss/Pasted image 20250530204848.png",
-    "ss/Pasted image 20250530202510.png",
-    "ss/Pasted image 20250530202359.png"
+    "ss/Pasted image 20250530202510.png"
   ]
 }
