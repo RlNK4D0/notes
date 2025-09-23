@@ -1,12 +1,12 @@
 {
-  "workLen": 60,
+  "workLen": 50,
   "breakLen": 10,
   "autostart": false,
-  "useStatusBarTimer": false,
+  "useStatusBarTimer": true,
   "notificationSound": true,
   "customSound": "",
   "showTaskProgress": true,
-  "enableTaskTracking": false,
+  "enableTaskTracking": true,
   "logFile": "NONE",
   "logFocused": false,
   "logPath": "",
@@ -14,6 +14,6 @@
   "logTemplate": "",
   "logFormat": "VERBOSE",
   "useSystemNotification": false,
-  "taskFormat": "TASKS",
+  "taskFormat": "DATAVIEW",
   "lowFps": false
 }
